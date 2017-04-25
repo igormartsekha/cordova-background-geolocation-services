@@ -9,7 +9,7 @@
 import Foundation
 import CoreLocation
 import CoreMotion
-
+import Cordova
 
 let TAG = "[LocationServices]";
 let PLUGIN_VERSION = "1.0";
